@@ -5,6 +5,11 @@ class Song
   @@artist = []
   @@genre = []
   
+  def initalize(name, artist, genre)
+      
+  end
+  
+  
   def genre_count(genre)
     
   end
@@ -12,6 +17,7 @@ class Song
   def artist_count(artist)
     
   end
+  
   
   
 end
