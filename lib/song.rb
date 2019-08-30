@@ -11,4 +11,7 @@ class Song
     @@song_count
   end
   
+  def new(name, artist, genre)
+  end
+  
 end
