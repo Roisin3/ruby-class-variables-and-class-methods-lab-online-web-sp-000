@@ -5,7 +5,7 @@ class Song
   @@artist = []
   @@genre = []
   
-  def genre_count(@@genre)
+  def genre_count(genre)
     @@genre.count
   end
   
