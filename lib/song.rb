@@ -15,14 +15,6 @@ class Song
   end
   
   
-  def genre_count(genre)
-    
-  end
-  
-  def artist_count(artist)
-    
-  end
-  
   
   
 end
