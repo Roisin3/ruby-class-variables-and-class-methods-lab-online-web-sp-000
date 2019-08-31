@@ -18,7 +18,13 @@ class Song
     @@count
   end
   
+  def name
+    @@name
+  end
   
+  def artist
+    @@artists
+  end
   
   
 end
